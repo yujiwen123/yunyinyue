@@ -1,0 +1,1 @@
+{"version":3,"sources":["uni-app:///main.js"],"names":["createPage","Page"],"mappings":";;;;wEAAA,qBACA,sBACA,+I,mDACAA,EAAWC,a","file":"songPackage/recommendSong/recommendSong.js","sourcesContent":["import 'uni-pages';\nimport Vue from 'vue'\nimport Page from './songPackage/recommendSong/recommendSong.vue'\ncreatePage(Page)"],"sourceRoot":""}

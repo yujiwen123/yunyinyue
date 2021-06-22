@@ -1,0 +1,1 @@
+<view class="otherContainer"><view class="otherTitle">测试获取用户唯一Id</view><button data-event-opts="{{[['tap',[['handleGetOpenId',['$event']]]]]}}" bindtap="__e">获取openId</button></view>
